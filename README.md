@@ -2,7 +2,7 @@
 <h3 align="center">A student at Firat University, department of computer engineering.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/g%C3%B6khan-%C5%9Fent%C3%BCrk-5779a425b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gökhan şentürk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gokhansenturk-ce/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gökhan şentürk" height="30" width="40" /></a>
 <a href=https://twitter.com/senturkgokhan5 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gökhan şentürk" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gokhan.sentrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gökhan şentürk" height="30" width="40" /></a>
 </p>
